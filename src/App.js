@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const sample=(a,b,c,d)=>{}
+  const sample=(a,b,c,d)=>
 sample()
   return (
     <div className="App">
