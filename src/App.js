@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const sample=(a,b,c,d)=>{}
+sample()
   return (
     <div className="App">
       <header className="App-header">
